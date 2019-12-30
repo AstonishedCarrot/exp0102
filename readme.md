@@ -21,7 +21,7 @@
 
 为歌单添加音乐：
 
-![](D:addMusic.jpg)
+![](addMusic.jpg)
 
 播放排行：
 
@@ -29,7 +29,7 @@
 
 我的收藏：
 
-![](D:collection.jpg)
+![](collection.jpg)
 
 注册新用户：
 
